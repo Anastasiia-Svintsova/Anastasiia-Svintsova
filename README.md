@@ -38,7 +38,7 @@ Collaborative and hardworking team player with critical thinking skills and a sy
 * English: Intermediate
 
 ## 👇 My Github Stats 👇
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasiia-Svintsova)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasiia-Svintsova)](https://github.com/Anastasiia-Svintsova/github-readme-stats)
 
 
 
