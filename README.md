@@ -28,14 +28,14 @@ Collaborative and hardworking team player with critical thinking skills and a sy
 #### 🔎 I’m looking for job now 🕵️‍♂️
 
 ## Skills
-*Front End languages: Typescript, JavaScript, Sass(SCSS), CSS3, HTML5 
-*Frameworks: React, Redux
-*Task and Project Management: Git, Trello
-*Tools: Figma, NPM, Eslint, GitHub, Visual Studio, Photoshop
-*Methodologies: BEM
-*Operating systems: Windows
-*Algorithms: Solved 100+ algorithmic tasks 
-*English: Intermediate
+* Front End languages: Typescript, JavaScript, Sass(SCSS), CSS3, HTML5 
+* Frameworks: React, Redux
+* Task and Project Management: Git, Trello
+* Tools: Figma, NPM, Eslint, GitHub, Visual Studio, Photoshop
+* Methodologies: BEM
+* Operating systems: Windows
+* Algorithms: Solved 100+ algorithmic tasks 
+* English: Intermediate
 
 ## 👇 My Github Stats 👇
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasiia-Svintsova)](https://github.com/anuraghazra/github-readme-stats)
