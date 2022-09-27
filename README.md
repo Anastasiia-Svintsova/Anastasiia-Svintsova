@@ -39,9 +39,6 @@ Collaborative and hardworking team player with critical thinking skills and a sy
 * Algorithms: Solved 100+ algorithmic tasks 
 * English: Upper-Intermediate
 
-## 👇 My Github Stats 👇
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasiia-Svintsova)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
