@@ -21,19 +21,23 @@ Here are some ideas to get you started:
 
 ##  🔥 I'm Frontend Developer from Ukraine 🔥
 
-Collaborative and hardworking team player with critical thinking skills and a systematic approach. I have strong educational background due to my engineering degree. Motivated to meet customer and user expectations with high-quality and effective website layouts. Skilled in validating, debugging and correcting code.
-
-#### 🔎 I’m looking for job now 🕵️‍♂️
+Collaborative and hardworking team player with critical thinking skills and a systematic approach. Have commercial experience with React.js/Next.js and React Ntaive projects. I have strong educational background due to my engineering degree. Motivated to meet customer and user expectations with high-quality and effective website layouts. Skilled in validating, debugging and correcting code.
 
 ## Skills
-* Front End languages: Typescript, JavaScript, Sass(SCSS), CSS3, HTML5 
-* Frameworks: React, Redux
-* Task and Project Management: Git, Trello
-* Tools: Figma, NPM, Eslint, GitHub, Visual Studio, Photoshop
+* React (React Hooks, React Router)
+* Redux
+* Typescript
+* JavaScript
+* Sass(SCSS)
+* CSS3
+* HTML5
+* Firebase
+* Task and Project Management: Git, Trello, Jira
+* Tools: Figma, NPM, Eslint, GitHub, GitLab, Visual Studio, Photoshop
 * Methodologies: BEM
-* Operating systems: Windows
+* Operating systems: Windows, Linux
 * Algorithms: Solved 100+ algorithmic tasks 
-* English: Intermediate
+* English: Upper-Intermediate
 
 ## 👇 My Github Stats 👇
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasiia-Svintsova)](https://github.com/anuraghazra/github-readme-stats)
