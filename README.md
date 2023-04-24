@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Anastasiia 👋
+# Hi there, I'm Anastasiia 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-svintsova.nastya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:svintsova.nastya@gmail.com)](mailto:svintsova.nastya@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@sv__anastasiia-0088cc?style=flat&logo=telegram&labelColor=0088cc&link=https://t.me/sv_anastasiia)](https://t.me/sv_anastasiia)
@@ -23,21 +23,25 @@ Here are some ideas to get you started:
 
 I'm a Web and Mobile App Developer with experience in designing new features from idea to production, implementation of wireframes and design flows into high-performance software applications. I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects, which I follow from the first idea to release.
 
+## A little bit about me:
+
+- 🌸 Enjoy learning new technologies and sharing findings with my colleagues
+- 💪 Proactive, self-organized, and excel at developing mobile and web applications
+- 💡 Always open to talk about ideas, challenges, opportunities
+
 ## Skills
-* React (React Hooks, React Router)
-* Redux
+* React.js
+* React Native (Expo, React Native CLI)
+* Redux, Redux Toolkit
 * Typescript
-* JavaScript
+* Next.js
 * Sass(SCSS)
-* CSS3
-* HTML5
 * Firebase
+* GraphQL
+* react-i18next
+* Styling: Styled Components, Tailwind CSS, Bootstrap, Material UI
 * Task and Project Management: Git, Trello, Jira
-* Tools: Figma, NPM, Eslint, GitHub, GitLab, Visual Studio, Photoshop
-* Methodologies: BEM
-* Operating systems: Windows, Linux
-* Algorithms: Solved 100+ algorithmic tasks 
-* English: Upper-Intermediate
+* Methodologies: Scrum / Agile
 
 
 
