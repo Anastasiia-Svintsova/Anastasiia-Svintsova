@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ##  🔥 I'm Frontend Developer from Ukraine 🔥
 
-Collaborative and hardworking team player with critical thinking skills and a systematic approach. Have commercial experience with React.js/Next.js and React Ntaive projects. I have strong educational background due to my engineering degree. Motivated to meet customer and user expectations with high-quality and effective website layouts. Skilled in validating, debugging and correcting code.
+I'm a Web and Mobile App Developer with experience in designing new features from idea to production, implementation of wireframes and design flows into high-performance software applications. I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects, which I follow from the first idea to release.
 
 ## Skills
 * React (React Hooks, React Router)
