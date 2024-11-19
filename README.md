@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-svintsova.nastya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:svintsova.nastya@gmail.com)](mailto:svintsova.nastya@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@sv__anastasiia-0088cc?style=flat&logo=telegram&labelColor=0088cc&link=https://t.me/sv_anastasiia)](https://t.me/sv_anastasiia)
-[![Linkedin Badge](https://img.shields.io/badge/-anastasiia--svintsova-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/anastasiia-svintsova-510a33172/)](https://www.linkedin.com/in/anastasiia-svintsova-510a33172/)
+[![Linkedin Badge](https://img.shields.io/badge/-anastasiia--lantratova-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/anastasiia-lantratova-510a33172/)](https://www.linkedin.com/in/anastasiia-lantratova-510a33172/)
 
 ##  🔥 I'm Frontend Developer 🔥
 
