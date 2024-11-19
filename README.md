@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-@sv__anastasiia-0088cc?style=flat&logo=telegram&labelColor=0088cc&link=https://t.me/sv_anastasiia)](https://t.me/sv_anastasiia)
 [![Linkedin Badge](https://img.shields.io/badge/-anastasiia--svintsova-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/anastasiia-svintsova-510a33172/)](https://www.linkedin.com/in/anastasiia-svintsova-510a33172/)
 
-##  🔥 I'm Frontend Developer from Ukraine 🔥
+##  🔥 I'm Frontend Developer 🔥
 
 I'm a Web and Mobile App Developer with experience in designing new features from idea to production, implementation of wireframes and design flows into high-performance software applications. I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects, which I follow from the first idea to release.
 
